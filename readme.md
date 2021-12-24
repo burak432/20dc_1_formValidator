@@ -7,3 +7,4 @@
 - index2'de js kodunu refactor yaptım. tek tek if - else yerine kontroller artık fonksiyonlar ile yapılıyor.
 - password match ve inputlarda length kontrol eklendi.
 
+![form validation screenshot](https://github.com/burakk432/20dc_1_formValidator/blob/main/scrn.JPG)
